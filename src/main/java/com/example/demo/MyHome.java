@@ -8,6 +8,6 @@ public class MyHome {
 
     @GetMapping("/")
     public String home(){
-        return "77777777777777777777~~~!!!";
+        return "000000000000000000~~~!!!";
     }
 }
